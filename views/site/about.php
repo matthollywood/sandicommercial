@@ -35,5 +35,6 @@ $this->params['breadcrumbs'][] = $this->title;
 
   $map->addOverlay($marker);
   echo $map->display(); ?>
+
 </div>
 <br>
